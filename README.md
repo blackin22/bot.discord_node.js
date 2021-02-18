@@ -7,9 +7,9 @@ Handler:
 
 > Aliases,
 > 
-> Sistema de SubPastas,
+> Sub-Folders.
 > 
-> Menos linhas de código em sua main.
+> Otimização de Linhas.
 > 
 
 Caso tenha alguma duvida sobre, ou algum erro ocorreu chame-me no discord: blackin22#1337
@@ -24,7 +24,7 @@ Handler:
 
 > Aliases,
 > 
-> Sub-Folder System,
+> Sub-Folders.
 > 
 > Fewer lines of code in your main.
 > 
