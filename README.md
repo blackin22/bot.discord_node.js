@@ -3,8 +3,11 @@
 
 Handler:
 
-> Aliases
-> Sistema de SubPastas
-> Gasta menos linhas de código em sua main.
+> Aliases,
+> 
+> Sistema de SubPastas,
+> 
+> Menos linhas de código em sua main.
+> 
 
 xD
