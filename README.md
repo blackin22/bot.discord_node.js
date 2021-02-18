@@ -25,4 +25,7 @@ Handler:
 > Fewer lines of code in your main.
 > 
 
+Linguagem / Language: JavaScript *(EcmaScript 2018 / node.js) Livraria / Bookstore: Discord.js*
+
+
 xD
