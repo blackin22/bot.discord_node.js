@@ -12,7 +12,7 @@ Handler:
 > Menos linhas de código em sua main.
 > 
 
-Caso tenha alguma duvida sobre, ou algum erro ocorreu chame-me no discord: daddyzada#1337
+Caso tenha alguma duvida sobre, ou algum erro ocorreu chame-me no discord: blackin22#1337
 
 ©️ Linguagem: *JavaScript (EcmaScript 2018 / Node.js) / Discord.JS*
 
@@ -29,7 +29,7 @@ Handler:
 > Fewer lines of code in your main.
 > 
 
-If you have any questions about, or an error has occurred call me on discord: daddyzada#1337
+If you have any questions about, or an error has occurred call me on discord: blackin22#1337
 
 ©️ Language: *JavaScript (EcmaScript 2018 / Node.js) / Discord.JS*
 
