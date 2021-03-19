@@ -15,7 +15,7 @@ this.client = client
       let embed = new MessageEmbed() // criando embed..
       .setAuthor(`${message.guild.name}`, message.guild.iconURL({dynamic: true}))
       .setThumbnail(message.guild.iconURL({dynamic: true}))
-      .addField("<:r_cloud:805865899947982929> - Informações:", `> **Nome:** \`${message.guild.name}\`\n> **ID:** \`${message.guild.id}\`\n> **Posse:** \`${this.client.users.cache.get(message.guild.owner.user.id).tag}\`\n> **Criada em:** \`${moment(message.guild.createdAt).format("L")}\`\n> **Boost(s)** \`${boost}\``)
+      .addField("Informações:", `> **Nome:** \`${message.guild.name}\`\n> **ID:** \`${message.guild.id}\`\n> **Posse:** \`${this.client.users.cache.get(message.guild.owner.user.id).tag}\`\n> **Criada em:** \`${moment(message.guild.createdAt).format("L")}\`\n> **Boost(s)** \`${boost}\``)
       .setTimestamp()
       .setFooter(`- Requisitado por: ${message.author.tag}`, message.author.displayAvatarURL())      
       message.channel.send(embed)  
